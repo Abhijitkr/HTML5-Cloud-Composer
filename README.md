@@ -1,4 +1,4 @@
-# README
+# HTML5 Cloud Composer
 
 Check the Demo **[Here.](http://gregj.github.com/HTML5-Cloud-Composer/)**
 
